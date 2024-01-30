@@ -8,4 +8,4 @@
 * Menu Options: Choose from a variety of beverages and snacks available on the virtual menu.
 
 ### Screen Captures
-![OIG2](C:\Users\Acer User\Desktop\Cozy-Cup\image)
+![OIG2](C:\Users\Acer User\Desktop\Cozy-Cup\image.jpg)
