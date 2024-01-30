@@ -6,4 +6,6 @@
 ## Features
 * Virtual Cafe Environment: Immerse yourself in the ambiance of a cozy cafe with soothing background noise and comfortable seating.
 * Menu Options: Choose from a variety of beverages and snacks available on the virtual menu.
-* 
+
+### Screen Captures
+![OIG2](C:\Users\Acer User\Desktop\Cozy-Cup\image)
