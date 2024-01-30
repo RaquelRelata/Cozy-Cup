@@ -8,12 +8,12 @@
 * Menu Options: Choose from a variety of beverages and snacks available on the virtual menu.
 
 ### Screen Captures
-![OIG2](IMG\IMG1.png)
+![OIG2](IMG/IMG1.png)
 
-![OIG2](IMG\IMG2.png)
+![OIG2](IMG/IMG2.png)
 
-![OIG2](IMG\IMG3.png)
+![OIG2](IMG/IMG3.png)
 
-![OIG2](IMG\IMG4.png)
+![OIG2](IMG/IMG4.png)
 
 
