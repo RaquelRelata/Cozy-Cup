@@ -9,11 +9,16 @@
 
 ### Screen Captures
 ![OIG2](IMG/IMG1.png)
+"This first picture shows the homepage of my website."
 
 ![OIG2](IMG/IMG2.png)
+"The second picture shows the menu available in Quel's Cafe."
 
 ![OIG2](IMG/IMG3.png)
+"And the 3rd picture shows the history of my cafe, its origin, values and many more."
+
 
 ![OIG2](IMG/IMG4.png)
+"This last picture shows the address of my cafe."
 
 
