@@ -27,6 +27,10 @@ Raquel is a IT Student with over five years of experience in web development. He
 ### Ria Joy Brizo
 gxhgaudhuihaidjoiqAQzjkxtyDtqsytqyfvshjgsfqhshqgfsh
 
+<img src="image/photo_6273779319520212362_y.jpg" alt="author image" width="150" style="border-radius:50%;">
+
+
+
 
 
 
