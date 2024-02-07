@@ -24,6 +24,10 @@
 #### About The Athours
 ### Raquel Relata
 Raquel is a IT Student with over five years of experience in web development. He specializes in front-end technologies and has a passion for creating intuitive user interfaces. In this project, Raquel  was responsible for designing the user interface and implementing client-side functionality.
+### Ria Joy Brizo
+gxhgaudhuihaidjoiqAQzjkxtyDtqsytqyfvshjgsfqhshqgfsh
+
+
 
 
 
