@@ -22,13 +22,9 @@
 "This last picture shows the address of my cafe."
 
 #### About The Athours
-### Raquel Relata
-Raquel is a IT Student with over five years of experience in web development. He specializes in front-end technologies and has a passion for creating intuitive user interfaces. In this project, Raquel  was responsible for designing the user interface and implementing client-side functionality.
-### Ria Joy Brizo
-gxhgaudhuihaidjoiqAQzjkxtyDtqsytqyfvshjgsfqhshqgfsh
-
 <img src="image/photo_6273779319520212362_y.jpg" alt="author image" width="150" style="border-radius:50%;">
-
+Name: Raquel Relata
+Email: raquelrelata18@gmail.com
 
 
 
