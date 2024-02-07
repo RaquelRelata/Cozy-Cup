@@ -23,7 +23,7 @@
 
 #### About The Athours
 <img src="image/photo_6273779319520212362_y.jpg" alt="author image" width="150" style="border-radius:50%;">
-Name: Raquel Relata<br>
+<b>Name: Raquel Relata</b><br>
 Email: raquelrelata18@gmail.com
 
 
